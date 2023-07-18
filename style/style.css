@@ -1,0 +1,8 @@
+.nav-section{
+    display: flex;
+    justify-content: space-between;
+}
+.logo-section{
+    display: flex;
+    justify-content: space-between;
+}
