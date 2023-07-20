@@ -537,6 +537,7 @@
 
 
 @media screen and (max-width:425px){
+
     .nav-section{
         flex-direction: column;
         margin-top: 50px;
@@ -617,10 +618,7 @@
         height: 165px;
         transform: translateX(-50px) translateY(200px);
     }
-
     .career-section{
-    
-    
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -628,13 +626,9 @@
         width: 500px;
         gap: 20px;
     }
-    
-    
-    
     .career-section-right img{
         width: 300px;
     }
-    
     .career-section-left{ 
         display: flex;
         flex-direction: column;
@@ -656,10 +650,10 @@
 
     .career-left-text{
         display: flex;
+        margin: auto;
         align-items: center;
         justify-content: center;
         width: 100px
-        margin: auto;
     }
     .career-left-text h6{
         text-align: right;
