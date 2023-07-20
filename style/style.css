@@ -59,6 +59,7 @@
     background-image: url(../images/banner-bg.png);
     background-repeat: no-repeat;
     height: 700px;
+    align-items: left;
 }
 .banner-content{
     margin: auto 0px auto 240px;
@@ -578,6 +579,7 @@
         margin: 5px;
      }
      .online-game-box{
+        display: flex;
         flex-direction: column;
      }
      .allplay{
